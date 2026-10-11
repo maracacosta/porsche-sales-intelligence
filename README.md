@@ -8,8 +8,8 @@ Dashboard executiva de vendas de veículos Porsche, desenvolvida em HTML, CSS e 
 
 Depois de ativar o GitHub Pages, substitua este texto pelo endereço publicado:
 
-- **GitHub Pages:** `https://SEU-USUARIO.github.io/porsche-sales-intelligence/`
-- **Repositório:** `https://github.com/SEU-USUARIO/porsche-sales-intelligence`
+- **GitHub Pages:** `https://github.com/maracacosta/porsche-sales-intelligence`
+- **Repositório:** `https://github.com/maracacosta/porsche-sales-intelligence`
 
 ## Perguntas de negócio e justificativa
 
